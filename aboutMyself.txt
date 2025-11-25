@@ -6,3 +6,6 @@ Section:A
 Branch:computer science
 year of Admission:2024
 college name:GITW
+SSLC:Baldwin Indian High School
+PUC: falcon pu college
+UG Degree:2nd Year Computer Science and Engineering
