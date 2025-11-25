@@ -1,7 +1,8 @@
 Title:Ms
 Full Name:saniya
 USN:1WT24CS024
-sSemister:Third
+Semester:Third
 Section:A
 Branch:computer science
-collage name:GITW
+year of Admission:2024
+college name:GITW
