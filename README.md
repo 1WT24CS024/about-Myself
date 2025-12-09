@@ -7,5 +7,5 @@ Subject Name; Project Management with GIT
 Sunject code: BCS358C
 Academic Year:2025-2026
 Mobile Number: 1234567892
-
+My Date of joining to GITW: 15 sep 2024
  
