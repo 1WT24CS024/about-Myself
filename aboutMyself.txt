@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 Title:Ms.
-=======
-Title:Ms
->>>>>>> feature-branch
 Full Name:saniya farheen
 USN:1WT24CS024
 Semester:Third
